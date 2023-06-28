@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import GameGrid from '@/components/GameGrid.vue';
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <GameGrid />
   </main>
 </template>
